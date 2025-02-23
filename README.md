@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b89f3eaa-d00b-464e-9ad4-1b87deb9f35a)## Задание
+## Задание
 Напишите приложение, которое по REST принимает запрос вида
 POST api/v1/wallet
 {
